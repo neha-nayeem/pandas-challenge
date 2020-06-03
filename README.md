@@ -53,7 +53,7 @@ After completing the script and displaying the dataframes (screenshots below), I
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-   ![School-Summary](Screenshots/SchoolSummary.png)
+  ![School-Summary](Screenshots/SchoolSummary.png)
 
 ### Top Performing Schools (By % Overall Passing)
 
@@ -69,25 +69,25 @@ After completing the script and displaying the dataframes (screenshots below), I
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-    ![Top-5-Schools](Screenshots/Top5Schools.png)
+  ![Top-5-Schools](Screenshots/Top5Schools.png)
 
 ### Bottom Performing Schools (By % Overall Passing)
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
-    ![Bottom-5-Schools](Screenshots/Bottom5Schools.png)
+  ![Bottom-5-Schools](Screenshots/Bottom5Schools.png)
 
 ### Math Scores by Grade\*\*
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-    ![Math-Scores-by-Grade](Screenshots/MathScoresbyGrade.png)
+  ![Math-Scores-by-Grade](Screenshots/MathScoresbyGrade.png)
 
 ### Reading Scores by Grade
 
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-    ![Reading-Scores-by-Grade](Screenshots/ReadingScoresbyGrade.png)
+  ![Reading-Scores-by-Grade](Screenshots/ReadingScoresbyGrade.png)
 
 ### Scores by School Spending
 
@@ -98,16 +98,16 @@ After completing the script and displaying the dataframes (screenshots below), I
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-    ![Scores-by-School-Spending](Screenshots/ScoresbySchoolSpending.png)  
+  ![Scores-by-School-Spending](Screenshots/ScoresbySchoolSpending.png)  
 
 ### Scores by School Size
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-    ![Scores-by-School-Size](Screenshots/ScoresbySchoolSize.png)  
+  ![Scores-by-School-Size](Screenshots/ScoresbySchoolSize.png)  
 
 ### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-    ![Scores-by-School-Type](Screenshots/ScoresbySchoolType.png)  
+  ![Scores-by-School-Type](Screenshots/ScoresbySchoolType.png)  
