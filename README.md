@@ -20,8 +20,11 @@ The challenge has been completed as below:
 
 After completing the script and displaying the dataframes (screenshots below), I have observed the following trends based on the data:
 
-* District schools have significantly lower performance than Charter schools, as shown in the 
+* Reading scores appear to be better across the board as compared to Math scores, with the total percentage of students passing reading shown to be at 85.81% while 74.98% pass Math, and only 65.17% pass both.
 
+* The highest performing school, Cabrera High School, has a relatively lower per student spend of $582. This is lower than the per student spend of all the bottom 5 performing schools that have a budget of $637 or higher. This shows that a higher budget does not necessarily translate to better performance.
+
+* District schools show significantly lower performance than Charter schools, as displayed in the **Scores by School Type** and **Bottom Performing Schools (By % Overall Passing)** dataframes. This is especially seen in the Math scores, where only 66.55% of students appear to be passing Math in District schools, compared to the 93.62% of Charter school students. It is also worth noting that all 5 bottom performing schools are District schools, while all 5 top performing schools are Charter schools.
 
 ## Screenshots
 
