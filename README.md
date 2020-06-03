@@ -6,7 +6,7 @@ The ask was to complete one out of two Data Challenges. I chose to go with the *
 
 The challenge has been completed as below:
 
-* The analysis was done using the pandas library and Jupyter notebook. 
+* The script was coded using the pandas library and Jupyter notebook. 
 
 * All files are inside the folder named for the challenge `PyCitySchools`. This folder contains:
 
