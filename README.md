@@ -12,7 +12,7 @@ The challenge has been completed as below:
 
     * A Jupyter notebook called `PyCityschools.ipynb` to run the analysis.
 
-    * A `Resources` folder that contains the CSV files `schools_complete.csv` and `students_complete.csv`. These files contain details on all students, their math and reading scores, as well as various information on the schools they attend. Our responsibility was to aggregate the data and to showcase obvious trends in school performance.
+    * A `Resources` folder that contains the CSV files `schools_complete.csv` and `students_complete.csv`. These files contain details on all students, their math and reading scores, as well as various information on the schools they attend. Our responsibility was to aggregate the data and to showcase obvious trends in school performance. Numbers were formatted as per the example solution provided, to 6 decimal places.
 
     * An `Analysis` folder that contains a Word document with my analysis, the same as the 'Analysis' section below.
 
